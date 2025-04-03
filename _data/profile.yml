@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Wang Hao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
+- logo: /assets/images/badges/SIAT.png  # Logo is optional
+  name: Research Assistant at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 - name: Position 2 without logo
 
 
@@ -35,19 +35,24 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+  logo: /assets/images/badges/SIAT.png
+  position: >- 
+    visiting student
+  date: Sep. 2020 - Jul. 2023
 - name: Zhengzhou University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/ZZU.jpg
   position: >- 
     M.S. in Instrument Science and Technology
   date: Sep. 2020 - Jul. 2023
 - name: Zhengzhou University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ZZU.jpg
   position: B.S. in Rail Transit Signal and Control (Automation)
   date: Sep. 2015 - Jul. 2019
 
 experience:
 - name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/SIAT.png
   position: Research Assistant
   date: Jul. 2023 - present
 

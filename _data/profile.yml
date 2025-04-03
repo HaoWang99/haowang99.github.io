@@ -4,7 +4,7 @@ navbar_name: "Wang Hao"
 
 positions:
 - logo: /assets/images/badges/SIAT.png  # Logo is optional
-  name: Research Assistant at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+  name: Research Assistant at Shenzhen Institutes of Advanced Technology, CAS
 - name: Position 2 without logo
 
 
@@ -35,7 +35,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- name: Shenzhen Institutes of Advanced Technology, CAS
   logo: /assets/images/badges/SIAT.png
   position: >- 
     visiting student
@@ -51,7 +51,7 @@ education:
   date: Sep. 2015 - Jul. 2019
 
 experience:
-- name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- name: Shenzhen Institutes of Advanced Technology, CAS
   logo: /assets/images/badges/SIAT.png
   position: Research Assistant
   date: Jul. 2023 - present

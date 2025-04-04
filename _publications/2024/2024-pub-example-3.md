@@ -17,5 +17,5 @@ authors:
   - Raffaele Gravina
   - Fangmin Sun
 links:
-  Paper: [https://github.com/luost26/academic-homepage](https://ieeexplore.ieee.org/abstract/document/10496456)
+  Paper: https://ieeexplore.ieee.org/abstract/document/10496456
 ---

@@ -12,8 +12,8 @@ abstract: >-
   This work proposes an EKF-based sensor fusion method for indoor localization by combining Wi-Fi fingerprints and IMU data. A Wi-Fi model (CDAELoc) and an inertial odometry model (DbDIO) are developed to enhance robustness and accuracy. The fusion system (WIO-EKF) integrates their outputs and corrects heading errors. Experiments on public and self-collected datasets show that the proposed approach significantly improves localization accuracy, reducing average error by up to 42%.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Pan Zhou
-  - Hao Wang
+  - Pan Zhou*
+  - Hao Wang*
   - Raffaele Gravina
   - Fangmin Sun
 links:

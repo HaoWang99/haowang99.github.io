@@ -38,8 +38,8 @@ education:
 - name: Shenzhen Institutes of Advanced Technology, CAS
   logo: /assets/images/badges/SIAT.png
   position: >- 
-    visiting student
-  date: Sep. 2020 - Jul. 2023
+    Visiting Student
+  date: Sep. 2021 - Jul. 2023
 - name: Zhengzhou University
   logo: /assets/images/badges/ZZU.jpg
   position: >- 
@@ -50,7 +50,7 @@ education:
   position: B.S. in Rail Transit Signal and Control (Automation)
   date: Sep. 2015 - Jul. 2019
 
-experience:
+work experience:
 - name: Shenzhen Institutes of Advanced Technology, CAS
   logo: /assets/images/badges/SIAT.png
   position: Research Assistant

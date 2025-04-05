@@ -11,6 +11,7 @@ pub_date:       "2024"
 abstract: >-
   This study presents a deep learning-based method for real-time detection of abnormal running posture using wearable IMUs. 
   A four-layer Transformer outperforms LSTM and GRU, achieving 85.2% accuracy, with combined accelerometer and gyroscope data further boosting performance. 
+  cover:          /assets/images/covers/2024-pub-6-ICSTPA2.png
 authors:
   - Xiang Li
   - Hao Wang

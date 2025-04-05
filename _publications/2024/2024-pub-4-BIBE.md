@@ -1,7 +1,7 @@
 ---
 title:          "Gait Recognition Method Based on Wearable Sensor Information Fusion"
 date:           2024-08-13
-selected:       true
+selected:       false
 pub:            "BIBE"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -4,7 +4,7 @@ date:           2024-12-13
 selected:       true
 pub:            "ICSTPA"
 # pub_pre:        "Submitted to "
-pub_post:       'Accept.'
+pub_post:       ' Accept.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       "2024"
 

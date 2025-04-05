@@ -1,7 +1,7 @@
 ---
 title:          "Continuous Detection Method for Abnormal Running Posture Based on Wearable Inertial Sensors"
 date:           2024-12-13
-selected:       true
+selected:       false
 pub:            "ICSTPA"
 # pub_pre:        "Submitted to "
 pub_post:       ' Accept'

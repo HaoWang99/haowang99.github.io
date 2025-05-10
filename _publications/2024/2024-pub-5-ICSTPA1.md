@@ -18,5 +18,5 @@ authors:
   - Ye Li
   - Fangmin Sun
 links:
-  # Paper: https://dl.acm.org/doi/10.1145/3723936.3723943
+  Paper: https://dl.acm.org/doi/10.1145/3723936.3723943
 ---

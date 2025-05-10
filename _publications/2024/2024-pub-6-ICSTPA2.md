@@ -4,9 +4,9 @@ date:           2024-12-13
 selected:       false
 pub:            "ICSTPA"
 # pub_pre:        "Submitted to "
-pub_post:       ' Accept'
+# pub_post:       ' Accept'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-# pub_date:       "2024"
+pub_date:       "2024"
 
 abstract: >-
   This study presents a deep learning-based method for real-time detection of abnormal running posture using wearable IMUs. 

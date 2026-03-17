@@ -4,11 +4,11 @@ navbar_name: "Hao Wang (王皓)"
 
 positions:
 - logo: /assets/images/badges/SIAT.png  # Logo is optional
-  name: Research Assistant at Shenzhen Institutes of Advanced Technology, CAS
+  name: Assistant Researcher at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences 
 # - name: Position 2 without logo
 
 
-email: "h.wang@siat.ac.cn"
+email: "h dot wang at siat dot ac dot cn"
 # cv_link: link-to-your-cv-file
 gscholar: v3z1JN0AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: HaoWang99
@@ -22,8 +22,8 @@ orcid: 0009-0001-0229-9064
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am now a research assistant at the <a href="http://www.bit-siat.com/en/" target="_blank"> Research Center for Biomedical Information Technology </a> 
-    of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, under the supervision of Dr. <a href="https://people.ucas.edu.cn/~fmsun" target="_blank"> Fangmin Sun </a>. 
+    I am now a assistant researcher at the <a href="http://www.bit-siat.com/en/" target="_blank"> Research Center for Biomedical Information Technology </a> 
+    of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, under the supervision of Dr. <a href="https://people.ucas.edu.cn/~fmsun" target="_blank"> Fangmin Sun </a>. 
     My main research interests include wearable perception and computing, biomedical signal processing, and multi-sensor information fusion.
   </p>
 
@@ -32,13 +32,13 @@ portrait_url: /assets/images/photos/wh_portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 experience:
-- name: Shenzhen Institutes of Advanced Technology, CAS
+- name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
   logo: /assets/images/badges/SIAT.png
   position: Research Assistant
   date: Jul. 2023 - present
 
 education:
-- name: Shenzhen Institutes of Advanced Technology, CAS
+- name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
   logo: /assets/images/badges/SIAT.png
   position: >- 
     Visiting Student

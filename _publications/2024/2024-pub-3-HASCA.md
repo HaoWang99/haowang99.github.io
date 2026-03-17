@@ -1,7 +1,7 @@
 ---
 title:          "Sussex-Huawei locomotion recognition using machine learning and deep learning with multi-sensor data"
 date:           2024-10-05
-selected:       true
+selected:       false
 pub:            "ACM UbiComp Workshop"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

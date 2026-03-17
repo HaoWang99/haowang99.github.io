@@ -1,7 +1,7 @@
 ---
 title:          "Influencing Factors Mining and Modeling of Energy Expenditure in Running Based on Wearable Sensors"
 date:           2024-12-13
-selected:       fasle
+selected:       false
 pub:            "ICSTPA"
 # pub_pre:        "Submitted to "
 # pub_post:       ' Accept.'

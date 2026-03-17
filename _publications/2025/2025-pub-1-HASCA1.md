@@ -1,7 +1,7 @@
 ---
 title:          "A Sensor-site Hybrid Algorithm Pipeline for Locomotion and Transportation Mode Recognition"
 date:           2025-10-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM UbiComp Workshop"
 pub_date:       "2025"
 abstract: >-

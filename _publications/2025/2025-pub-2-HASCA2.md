@@ -9,7 +9,7 @@ pub:            "ACM UbiComp Workshop"
 pub_date:       "2025"
 
 abstract: >-
-We propose a semi-supervised learning framework based on MixMatch for locomotion and transportation mode recognition. The framework integrates pseudo-label generation, data augmentation, soft label sharpening, and cross-sample mixing to mitigate domain shift and label scarcity. Experimental results demonstrate that the proposed method achieves competitive performance in Task 2 with an accuracy of 76.8% and F1 score of 76.5%, confirming its effectiveness in modeling real-world cross-domain activity scenarios without relying on target domain labels.
+ We propose a semi-supervised learning framework based on MixMatch for locomotion and transportation mode recognition. The framework integrates pseudo-label generation, data augmentation, soft label sharpening, and cross-sample mixing to mitigate domain shift and label scarcity. Experimental results demonstrate that the proposed method achieves competitive performance in Task 2 with an accuracy of 76.8% and F1 score of 76.5%, confirming its effectiveness in modeling real-world cross-domain activity scenarios without relying on target domain labels.
 cover:          /assets/images/covers/2025-pub-2-HASCA.png
 authors:
   - Hao Wang

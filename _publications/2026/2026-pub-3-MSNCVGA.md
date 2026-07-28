@@ -1,6 +1,6 @@
 ---
 title:          "A Multi-Scale Network with Cross-View Gated Attention Enhancement for Human Activity Recognition"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-04-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Consumer Electronics"
 # pub_pre:        "Submitted to "
